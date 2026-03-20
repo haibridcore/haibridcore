@@ -1,5 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false
 google_analytics:
-github:
+github: false
 is_project_page: false
+title: [haibrid core]
+description: [платформа для ИИ-агентов]
